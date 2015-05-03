@@ -1,0 +1,23 @@
+article{
+    text-align: justify;
+}
+
+.category-title{
+	text-align: center;
+	font-size: 5em;
+	color:#fff;
+	padding-top: 150px;
+}
+.gradient{
+	width: 100%;
+	height: 400px;
+
+  
+  background: -webkit-linear-gradient(90deg, #52c234 10%, #061700 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #52c234 10%, #061700 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #52c234 10%, #061700 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #52c234 10%, #061700 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #52c234 10%, #061700 90%); /* W3C */
+        
+        
+}
